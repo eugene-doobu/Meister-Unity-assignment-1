@@ -20,8 +20,13 @@
 </br></br>
 
 ### 3) C# 과제
-아래 링크에서 학습합니다.
+<a href="http://www.csharpstudy.com/CSharp/CSharp-Intro.aspx">
+예제로 배우는 C# 프로그래밍 - 기초 문법</a><br>
+위 링크에서 C# 기초 문법을 학습합니다.
+범위: C# 프로그래밍 언어 ~ C# yield
+<br><br>
 
+### 문제
 1.기초
 - 문제
 <br><br>
@@ -32,16 +37,20 @@
 두 정수 A와 B가 주어졌을 때, A와 B를 비교하는 프로그램을 작성하시오.<br>
 
 문제: <a href="https://www.acmicpc.net/problem/1330">백준 1330</a>
-<br>
-
- 
-
+```C#
+//힌트: 아래와 같이 코드를 입력하면 입력값을 정수로 받을 수 있습니다.
+    string[] s = Console.ReadLine().Split();
+    int a, b;
+    a = Int32.Parse(s[0]);
+    b = Int32.Parse(s[1]);
+```
 <br><br>
 
 ### 4) 유니티 과제
-아래 링크에서 학습합니다.
-
-
+<a href="https://www.youtube.com/watch?v=7plGPXkmnxQ&list=PLO-mt5Iu5TeZa9dsqMVvXuSfVxwR_2AOz&index=1">골드메탈 - 유니티 입문 간단 3D 게임 [BE1]</a><br>
+아래 링크에서 학습합니다.<br>
+범위: 유니티 3D 알아보며 설치해보아요[B0] ~ 유니티 프로그래밍의 시작, 콘솔창에 메시지 띄워보기[B3]<br>
+([B4]프로그래밍 기초 강의는 C#과제 내용이랑 겹치므로 필수적으로 듣지 않아도 됩니다)
 <br><br>
 
 ### 추가) 학생계정으로 유니티Pro 라이센스 받기
