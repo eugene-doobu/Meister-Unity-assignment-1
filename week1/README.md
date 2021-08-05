@@ -9,7 +9,7 @@
 <br><br>
 
 ### 2) Unity 2020.3.15f2 설치하기
-![유니티 허브](./image/0.PNG)
+![유니티 허브](./image/0.PNG)<br>
 <b>유니티 허브 다운로드</b>
 <a href="https://unity3d.com/kr/get-unity/download"></br>
 유니티 다운로드 사이트</a>에서 유니티 허브를 다운받아주세요. 유니티 허브는 유니티 프로젝트 및 설치를 관리할 수 있는 툴입니다. 유니티 허브를 설치하면 유니티 계정을 만들고 라이선스 활성화를 합니다.
@@ -44,7 +44,7 @@
 
 ### 4) 유니티 과제
 <a href="https://www.youtube.com/watch?v=7plGPXkmnxQ&list=PLO-mt5Iu5TeZa9dsqMVvXuSfVxwR_2AOz&index=1">골드메탈 - 유니티 입문 간단 3D 게임 [BE1]</a><br>
-아래 링크에서 학습합니다.<br>
+ 링크에서 학습합니다.<br>
 범위: 유니티 3D 알아보며 설치해보아요[B0] ~ 유니티 프로그래밍의 시작, 콘솔창에 메시지 띄워보기[B3]<br>
 ([B4]프로그래밍 기초 강의는 C#과제 내용이랑 겹치므로 필수적으로 듣지 않아도 됩니다)
 <br><br>
