@@ -45,7 +45,7 @@
 ### 4) 유니티 과제
 <a href="https://www.youtube.com/watch?v=7plGPXkmnxQ&list=PLO-mt5Iu5TeZa9dsqMVvXuSfVxwR_2AOz&index=1">골드메탈 - 유니티 입문 간단 3D 게임 [BE1]</a><br>
  링크에서 학습합니다.<br>
-범위: 유니티 3D 알아보며 설치해보아요[B0] ~ 유니티 프로그래밍의 시작, 콘솔창에 메시지 띄워보기[B3]<br>
+범위: 유니티 3D 알아보며 설치해보아요[B0] ~ 키보드 마우스로 이동시켜보자![B6]<br>
 ([B4]프로그래밍 기초 강의는 C#과제 내용이랑 겹치므로 필수적으로 듣지 않아도 됩니다)
 <br><br>
 
