@@ -1,6 +1,6 @@
 # 1주차 과제
 
-##답안
+## 답안
 C#: <a href="./Csharp/1330.cs"> 링크 </a>
 Unity: <a href="https://drive.google.com/file/d/17C0Ruw0nl3JxC9JLDNIwqJRoeHi2vgH2/view?usp=sharing">링크</a>
 
