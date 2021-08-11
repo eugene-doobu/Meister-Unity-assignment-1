@@ -1,6 +1,6 @@
 # Meister-Unity-assignment-1
-<b>1주차 :</b> <a href="./week1/README.md">C#과 유니티 시작하기</a>
-<b>2주차 :</b> <a href="./week1/README.md">작성중</a>
+<b>1주차 :</b> <a href="./week1/README.md">C#과 유니티 시작하기</a><br>
+<b>2주차 :</b> <a href="./week1/README.md">유니티 익숙해지기</a>
 <br><br>
 
 
