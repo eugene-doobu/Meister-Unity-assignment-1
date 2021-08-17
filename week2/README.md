@@ -1,4 +1,9 @@
 # 2주차 과제
+
+## 답안
+C#: <a href="./Csharp/3052.cs"> 링크 </a>
+Unity: <a href="https://drive.google.com/file/d/1u0wdIhR-I_Ngsk0siZHfvLtY0R8io17M/view?usp=sharing">링크</a>
+
 ### 1) C# 과제
 <a href="http://www.csharpstudy.com/CSharp/CSharp-Intro.aspx">
 예제로 배우는 C# 프로그래밍 - 기초 문법</a><br>
