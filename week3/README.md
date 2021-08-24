@@ -1,4 +1,9 @@
 # 3주차 과제
+
+## 답안
+주사위 세개: <a href="./Csharp/2480.cs"> 링크 </a>
+주사위 네개: <a href="./Csharp/2484.cs">링크</a>
+
 ### 0) 과제 변경 !!
 백준 문제풀이로 과제를 변경합니다.<br>
 1 - <a href="https://www.acmicpc.net/problem/2480">주사위 세개</a><br>
