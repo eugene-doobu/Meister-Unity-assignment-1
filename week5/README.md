@@ -1,7 +1,7 @@
 # 5주차 과제
 
 ### 0) 과제
-<a href="http://www.csharpstudy.com/CSharp/CSharp-Intro.aspx">
+<a href="https://www.acmicpc.net/problem/10773">
 백준 - 제로</a>
 <br>
 힌트: Int형 Stack을 이용하면 쉽게 해결할 수 있습니다.
