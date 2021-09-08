@@ -1,5 +1,8 @@
 # 5주차 과제
 
+## 답안
+<a href="./Csharp/10773.cs"> 링크 </a>
+
 ### 0) 과제
 <a href="https://www.acmicpc.net/problem/10773">
 백준 - 제로</a>
