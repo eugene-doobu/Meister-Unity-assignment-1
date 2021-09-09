@@ -3,7 +3,8 @@
 <b>2주차 :</b> <a href="./week2/README.md">유니티 익숙해지기</a><br>
 <b>3주차 :</b> <a href="./week3/README.md">첫 게임 완성해보기</a><br>
 <b>4주차 :</b> <a href="./week4/README.md">자료구조 학습해보기</a><br>
-<b>5주차 :</b> <a href="./week5/README.md">자료구조 학습해보기2</a>
+<b>5주차 :</b> <a href="./week5/README.md">자료구조 학습해보기2</a><br>
+<b>6주차 :</b> <a href="./week6/README.md">유니티 물리엔진과 이벤트함수</a>
 <br><br>
 
 ## 강의내용 정리
