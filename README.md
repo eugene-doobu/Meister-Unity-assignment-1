@@ -4,12 +4,14 @@
 <b>3주차 :</b> <a href="./week3/README.md">첫 게임 완성해보기</a><br>
 <b>4주차 :</b> <a href="./week4/README.md">자료구조 학습해보기</a><br>
 <b>5주차 :</b> <a href="./week5/README.md">자료구조 학습해보기2</a><br>
-<b>6주차 :</b> <a href="./week6/README.md">유니티 물리엔진과 이벤트함수</a>
+<b>6주차 :</b> <a href="./week6/README.md">유니티 물리엔진과 이벤트함수</a><br>
+<b>7주차 :</b> <a href="./week7/README.md">C# 문자열과 Enum</a>
 <br><br>
 
 ## 강의내용 정리
 <b>210907 :</b> <a href="./lecture/1-1_210907.md">OT와 유니티 물리엔진</a><br>
-<b>210909 :</b> <a href="./lecture/1-2_210909.md">OT와 유니티 물리엔진</a>
+<b>210909 :</b> <a href="./lecture/1-2_210909.md">콜라이더와 이벤트함수</a><br>
+<b>210909 :</b> <a href="./lecture/1-3_210916.md">문자열, Enum</a>
 <br><br>
 
 ## 과제 제출 방법
