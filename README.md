@@ -6,7 +6,8 @@
 <b>5주차 :</b> <a href="./week5/README.md">자료구조 학습해보기2</a><br>
 <b>6주차 :</b> <a href="./week6/README.md">유니티 물리엔진과 이벤트함수</a><br>
 <b>7주차 :</b> <a href="./week7/README.md">C# 문자열과 Enum</a><br>
-<b>8주차 :</b> <a href="./week8/README.md">메터리얼, 파티클 시스템(VFX)</a>
+<b>8주차 :</b> <a href="./week8/README.md">메터리얼, 파티클 시스템(VFX)</a><br>
+<b>9주차 :</b> <a href="./week9/README.md">Survival Shooter</a>
 <br><br>
 
 ## 강의내용 정리
