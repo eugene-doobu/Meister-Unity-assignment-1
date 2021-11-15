@@ -14,7 +14,11 @@
 <b>210907 :</b> <a href="./lecture/1-1_210907.md">OT와 유니티 물리엔진</a><br>
 <b>210909 :</b> <a href="./lecture/1-2_210909.md">콜라이더와 이벤트함수</a><br>
 <b>210916 :</b> <a href="./lecture/1-3_210916.md">문자열, Enum</a><br>
-<b>211013 :</b> <a href="./lecture/1-4_211013.md">메터리얼, 파티클 시스템(VFX)</a>
+<b>211013 :</b> <a href="./lecture/1-4_211013.md">메터리얼, 파티클 시스템(VFX)</a><br>
+<b>211026 :</b> <a href="./lecture/2-1_211026.md">서바이벌 슈터</a><br>
+<b>211104 :</b> <a href="./lecture/2-2_211104.md">서바이벌 슈터</a><br>
+<b>211106 :</b> <a href="./lecture/2-3_211106.md">서바이벌 슈터</a><br>
+<b>211111 :</b> <a href="./lecture/2-4_211111.md">서바이벌 슈터</a>
 <br><br>
 
 ## 과제 제출 방법
