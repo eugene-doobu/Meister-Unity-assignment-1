@@ -23,7 +23,7 @@
 <br>
 드라이버 설치: https://developer.oculus.com/downloads/package/oculus-adb-drivers/<br>
 
-알 수 없는 출처
+알 수 없는 출처 허용
 
 
 <h3>유니티 설정</h3>
