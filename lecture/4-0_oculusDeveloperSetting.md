@@ -14,8 +14,8 @@
 - 계정 확인: https://developer.oculus.com/manage/verify/<br>
 <br>
 
-![oculusApp_1](./image/oculusApp_1.jpg)
 ![oculusApp_2](./image/oculusApp_2.jpg)
+![oculusApp_1](./image/oculusApp_1.jpg)
 
 1. 해드셋에서 개발자 계정에 등록한 계정으로 로그인한다
 1. 오큘러스 모바일 앱에서 Devices로 이동한다
