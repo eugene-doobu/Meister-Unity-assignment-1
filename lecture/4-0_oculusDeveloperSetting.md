@@ -1,4 +1,5 @@
 <h2>오큘러스 개발자모드 셋팅</h2>
+
 - 페이스북 계정 생성
 - 핸드폰 보유, 오큘러스 앱 설치
 - 개발자 등록
@@ -12,6 +13,9 @@
 - 조직 생성: https://developer.oculus.com/manage/organizations/create/<br>
 - 계정 확인: https://developer.oculus.com/manage/verify/<br>
 <br>
+
+![oculusApp_1](./image/oculusApp_1.jpg)
+![oculusApp_2](./image/oculusApp_2.jpg)
 
 1. 해드셋에서 개발자 계정에 등록한 계정으로 로그인한다
 1. 오큘러스 모바일 앱에서 Devices로 이동한다
@@ -27,13 +31,14 @@
 
 
 <h3>유니티 설정</h3>
-Oculus Integration: https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
-Open Gl ES3
-Linear
-XR Setting - Oculus 
-Package Manager - Setting - show preview package
-XR Interaction Toolkit
+Oculus Integration: https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022<br>
+Open Gl ES3<br>
+Linear<br>
+XR Setting - Oculus <br>
+Package Manager - Setting - show preview package<br>
+XR Interaction Toolkit<br>
 실행
+<br><br>
 
 
 <h4>reference</h4>
