@@ -1,13 +1,17 @@
 # Meister-Unity-assignment-1
-<b>1주차 :</b> <a href="./week1/README.md">C#과 유니티 시작하기</a><br>
-<b>2주차 :</b> <a href="./week2/README.md">유니티 익숙해지기</a><br>
-<b>3주차 :</b> <a href="./week3/README.md">첫 게임 완성해보기</a><br>
-<b>4주차 :</b> <a href="./week4/README.md">자료구조 학습해보기</a><br>
-<b>5주차 :</b> <a href="./week5/README.md">자료구조 학습해보기2</a><br>
-<b>6주차 :</b> <a href="./week6/README.md">유니티 물리엔진과 이벤트함수</a><br>
-<b>7주차 :</b> <a href="./week7/README.md">C# 문자열과 Enum</a><br>
-<b>8주차 :</b> <a href="./week8/README.md">메터리얼, 파티클 시스템(VFX)</a><br>
-<b>9주차 :</b> <a href="./week9/README.md">Survival Shooter</a>
+<b>1주차 :</b> <a href="./week01/README.md">C#과 유니티 시작하기</a><br>
+<b>2주차 :</b> <a href="./week02/README.md">유니티 익숙해지기</a><br>
+<b>3주차 :</b> <a href="./week03/README.md">첫 게임 완성해보기</a><br>
+<b>4주차 :</b> <a href="./week04/README.md">자료구조 학습해보기</a><br>
+<b>5주차 :</b> <a href="./week05/README.md">자료구조 학습해보기2</a><br>
+<b>6주차 :</b> <a href="./week06/README.md">유니티 물리엔진과 이벤트함수</a><br>
+<b>7주차 :</b> <a href="./week07/README.md">C# 문자열과 Enum</a><br>
+<b>8주차 :</b> <a href="./week08/README.md">메터리얼, 파티클 시스템(VFX)</a><br>
+<b>9주차 :</b> <a href="./week09/README.md">Survival Shooter</a><br>
+<b>10주차 :</b> <a href="./week10/README.md">닷지 게임</a><br>
+<b>11주차 :</b> <a href="./week11/README.md">서바이벌 슈터</a><br>
+<b>12주차 :</b> 유용한 라이브러리<br>
+<b>13주차 :</b> <a href="./week12/README.md">VR개발 입문</a>
 <br><br>
 
 ## 강의내용 정리
