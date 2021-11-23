@@ -11,7 +11,7 @@
 <b>10주차 :</b> <a href="./week10/README.md">닷지 게임</a><br>
 <b>11주차 :</b> <a href="./week11/README.md">서바이벌 슈터</a><br>
 <b>12주차 :</b> 유용한 라이브러리<br>
-<b>13주차 :</b> <a href="./week12/README.md">VR개발 입문</a>
+<b>13주차 :</b> <a href="./week13/README.md">VR개발 입문</a>
 <br><br>
 
 ## 강의내용 정리
