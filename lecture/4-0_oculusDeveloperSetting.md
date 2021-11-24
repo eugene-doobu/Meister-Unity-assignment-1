@@ -31,15 +31,23 @@
 
 
 <h3>유니티 설정</h3>
-Oculus Integration: https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022<br>
+
+~~Oculus Integration: https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022<br>~~
+(불안정한 Oculus Integration를 사용하지 않고 진행할 예정입니다.)
+
 Open Gl ES3<br>
 Linear<br>
 XR Setting - Oculus <br>
 Package Manager - Setting - show preview package<br>
 XR Interaction Toolkit<br>
+XR Management<br>
+Project Settings - XR Plugin Management - Oculus XR Plugin<br>
+Android -> Plugin Providers에서 Oculus Loader 추가<br>
+기존 카메라 삭제 후 Creat -> XR -> Room-Scale XR Rig 추가<br>
 실행
 <br><br>
 
 
 <h4>reference</h4>
-https://developer.oculus.com/documentation/native/android/mobile-device-setup/
+https://developer.oculus.com/documentation/native/android/mobile-device-setup/<br>
+https://www.youtube.com/watch?v=zWI7zX-Hg6c&t
