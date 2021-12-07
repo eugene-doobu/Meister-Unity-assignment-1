@@ -27,7 +27,7 @@
 <b>211116 :</b> <a href="./lecture/3-1_211116.md">유용한 라이브러리 - 1</a><br>
 <b>211118 :</b> <a href="./lecture/3-2_211118.md">유용한 라이브러리 - 2</a><br>
 <b>211123 :</b> <a href="./lecture/4-1_211123.md">VR개발 개요</a><br>
-<b>211207 :</b> <a href="./lecture/4-2_211207.md">XR Interaction Toolkit</a>
+<b>211207 :</b> <a href="./lecture/4-2_211207.md">XR Interaction Toolkit & Github</a>
 
 ## 과제 제출 방법
 과제는 카카오톡 1:1 대화로 제출합니다.
