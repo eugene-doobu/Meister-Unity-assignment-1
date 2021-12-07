@@ -35,8 +35,6 @@
 ~~Oculus Integration: https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022<br>~~
 (불안정한 Oculus Integration를 사용하지 않고 진행할 예정입니다.)
 
-Open Gl ES3<br>
-Linear<br>
 XR Setting - Oculus <br>
 Package Manager - Setting - show preview package<br>
 XR Interaction Toolkit<br>
