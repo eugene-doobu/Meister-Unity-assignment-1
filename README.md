@@ -1,4 +1,11 @@
 # Meister-Unity-assignment-1
+
+2021년 2학기 게임개발 동아리 수업자료 및 과제를 저장하는 저장소
+
+해당 수업은 종료되었습니다
+
+---
+
 <b>1주차 :</b> <a href="./week01/README.md">C#과 유니티 시작하기</a><br>
 <b>2주차 :</b> <a href="./week02/README.md">유니티 익숙해지기</a><br>
 <b>3주차 :</b> <a href="./week03/README.md">첫 게임 완성해보기</a><br>
